@@ -1,6 +1,6 @@
 # Check out the mother of all SNOW
 
-[a link](https://opensea.io/collection/snoowies)
+- `[Best NFT Collection of all TIME](https://opensea.io/collection/snoowies)`
 
 # How to run
 
